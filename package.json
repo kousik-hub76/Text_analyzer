@@ -1,0 +1,8 @@
+{
+  "name": "text-analyzer",
+  "version": "1.0.0",
+  "description": "A JavaScript Text Analyzer Web App",
+  "main": "index.html",
+  "author": "Subroto Biswas",
+  "license": "MIT"
+}
